@@ -47,6 +47,21 @@
       <version>3.4</version>
       <scope>provided</scope>
     </dependency>
+	   <dependency>
+      <groupId>fr.imiddleware.projets</groupId>
+      <artifactId>TestPlugin</artifactId>
+      <version>3.1</version>
+    </dependency>
+	     <dependency>
+      <groupId>fr.imiddleware.projets</groupId>
+      <artifactId>TestProject</artifactId>
+      <version>1.0</version>
+    </dependency>
+	     <dependency>
+      <groupId>fr.imiddleware.projets</groupId>
+      <artifactId>TestWorkshop</artifactId>
+      <version>1.1</version>
+    </dependency>
   </dependencies>
 
 
